@@ -1,12 +1,12 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/alicha.jpg", // Path ke favicon
+  favicon: "alicha.jpg", // Path ke favicon
   title: "Alicha Dinastira | Profile", // Judul halaman
   metaTitle: "Alicha || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Alicha Dinastira, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Alicha, Alicha Dinastira, profile Alicha, siapa Alicha?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/alicha.jpg", // Path ke gambar profil
+  imageSrc: "alicha.jpg", // Path ke gambar profil
   name: "Alicha Dinastira", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
