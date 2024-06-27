@@ -1,13 +1,13 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "alicha.jpg", // Path ke favicon
-  title: "Alicha Dinastira | Profile", // Judul halaman
-  metaTitle: "Alicha || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website Alicha Dinastira, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Alicha, Alicha Dinastira, profile Alicha, siapa Alicha?", // Keywords meta untuk SEO
+  title: "Fadlan Modders | Profile", // Judul halaman
+  metaTitle: "Fadlan || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website Fadlan Modders, Creator and Dev", // Deskripsi meta untuk SEO
+  metaKeywords: "Fadlan, Fadlan Modders, profile Alicha, siapa Alicha?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "alicha.jpg", // Path ke gambar profil
-  name: "Alicha Dinastira", // Nama profil
+  name: "Fadlan Modders", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
     { title: "GitHub", url: "https://github.com/AlichaIcha", icon: "fa-github" }, // Tautan GitHub
